@@ -1,0 +1,6 @@
+[submodule "deps/etcd"]
+	path = deps/etcd
+	url = ../etcd.git
+[submodule "deps/snabb"]
+	path = deps/snabb
+	url = ../snabb.git
